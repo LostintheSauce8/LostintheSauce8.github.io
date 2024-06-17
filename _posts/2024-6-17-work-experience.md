@@ -3,6 +3,7 @@ title: Experience
 date: 2024-06-17 
 author: Ravi Joseph
 description: Where I've worked, what I've learned.
+tags: [About me] 
 ---
 
 ![Desktop View](/assets/img/tacobell.png){: .shadow }
