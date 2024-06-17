@@ -16,3 +16,6 @@ During his tenure as a team member at Taco Bell from June to August 2023, Ravi J
 ## Heartfulness
 
 Since January 2016, Ravi Joseph has been actively volunteering, coordinating engaging and smooth-running events, which has significantly enhanced his organizational and planning skills. Through this experience, he has honed his interpersonal communication abilities, effectively conveying information and working collaboratively with others. His efforts in gathering food, clothing, and household items for disadvantaged individuals and families have given him a practical understanding of logistics and resource allocation. Additionally, arranging and hosting community support events and managing a nationwide webinar on mental health have further developed his project management and coordination capabilities. These volunteer experiences have provided Ravi with a strong foundation in logistical planning, resource management, and effective communication, all of which are essential skills in his pursuit of a degree in Supply Chain Management.
+
+![Desktop View](/assets/img/Kanha.jpg){: .shadow }
+_Kanha Shanti Vanam, a meditation center in Hyderabad, India.  Ravi helped plant over 200 trees at this location when was first being built.__
