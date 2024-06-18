@@ -2,7 +2,7 @@
 title: Education
 date: 2024-06-17 
 author: Ravi Joseph
-description: What schools I've attended
+description: Which schools I've attended
 tags: [About me]
 ---
 
